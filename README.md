@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+# I'm an extremely passionate iOS Developer 📱
+## About me 😄
+* 💻 One line of code at a time
+
+* 🌱 I’m currently learning Advanced State Managememt with Swift
+
+* ⚙️ Solving Problems
+
+* 👨‍ I’m looking for Internship 
+
+* 🎮 Gamer 
+
+
+## Reach me via 👇🏻
+* [LinkedIn](https://www.linkedin.com/in/hady-helal-078064154/)
+
+* [Twitter](https://twitter.com/HadyHelal10)
 <!--
 **hadyhelal/hadyhelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
