@@ -4,7 +4,7 @@
 ## About me 😄
 * 💻 One line of code at a time
 
-* 🌱 I’m currently learning Advanced State Managememt with Swift
+* 🌱 I’m currently learning Advanced Design Pattern in Swift
 
 * ⚙️ Solving Problems
 
