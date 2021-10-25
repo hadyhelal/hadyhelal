@@ -4,11 +4,11 @@
 ## About me 😄
 * 💻 One line of code at a time
 
-* 🌱 I’m currently learning Advanced Design Pattern in Swift
+* 🌱 I’m currently learning OOD with SOLID Principles
 
 * ⚙️ Solving Problems
 
-* 👨‍ I’m looking for Internship 
+* 👨‍ Swifter 
 
 * 🎮 Gamer 
 
