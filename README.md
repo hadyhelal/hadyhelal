@@ -4,7 +4,7 @@
 ## About me 😄
 * 💻 One line of code at a time
 
-* 🌱 I’m currently learning OOD with SOLID Principles
+* 🌱 I’m currently learning advanced GCD and OperationQueue
 
 * ⚙️ Solving Problems
 
