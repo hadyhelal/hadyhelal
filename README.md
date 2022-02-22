@@ -4,7 +4,7 @@
 ## About me 😄
 * 💻 One line of code at a time
 
-* 🌱 I’m currently learning advanced GCD and OperationQueue
+* 🌱 I’m currently learning advanced Complex UI with Core animation
 
 * ⚙️ Solving Problems
 
