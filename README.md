@@ -1,7 +1,7 @@
 <img src="assets/Hady Helal (Senior iOS Developer).png" alt="Abdelrahman ElKhodary Banner"/>
 
 # 💫 About Me:
-👨‍💻 Senior iOS Engineer at **[Mobily](https://www.mobily.com.sa/wps/portal/web/personal)**, one of the leading international telecom companies in Saudi Arabia.  
+👨‍💻 Senior iOS Developer at **[Mobily](https://www.mobily.com.sa/wps/portal/web/personal)**, one of the leading international telecom companies in Saudi Arabia.  
 
 📚 Dedicated to advancing my expertise in software engineering practices, software architecture, and computer science principles..
 
